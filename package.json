@@ -2,6 +2,7 @@
   "name": "cs_554_lab_7",
   "version": "0.1.0",
   "private": true,
+  "author": "Kalawant Shoaib 20022297",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
